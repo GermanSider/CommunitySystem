@@ -1,0 +1,25 @@
+name: NowUnity
+version: 1.1
+author: bote100
+main: net.bote.community.main.Main
+
+commands:
+  setwarp:
+    description: Setze einen Warp
+  removewarp:
+    description: Entferne einen existierenden Warp
+  build:
+    description: Setze dich in den Build-Modus!
+  box:
+  
+  setspawn:
+  
+  creload:
+  
+  leavebox:
+  
+  spawn:
+  
+  setoutspawn:
+  
+  gommemode:

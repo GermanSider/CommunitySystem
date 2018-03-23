@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/net/bote/community/listener/ChatEvent.java=UTF-8
+encoding//src/net/bote/community/listener/OnBlockBreak.java=UTF-8
+encoding//src/net/bote/community/listener/OnBlockPlace.java=UTF-8
+encoding//src/net/bote/community/listener/OnItemDrop.java=UTF-8
+encoding//src/net/bote/community/stage/StageEnterEvent.java=UTF-8
